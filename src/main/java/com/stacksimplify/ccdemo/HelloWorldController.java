@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "For Code Pipeline - Release-1";
+		return "For Code Pipeline Automated - Release-2";
 	}
 	
 }
